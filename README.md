@@ -26,5 +26,9 @@ https://youtu.be/temsibo8_4I
 repl.it link:
 https://WanFumblingProblems.18pa1a0539dasar.repl.co
 
+BLOCK DIAGRAM:
+![IMG_20201026_180221](https://user-images.githubusercontent.com/68633587/97173382-79ce9300-17b6-11eb-8cad-c54bfd9075b8.jpg)
+
+
 REFERRED LINKS:
 * https://www.w3schools.com/js/
